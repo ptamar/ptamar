@@ -8,7 +8,7 @@ I’m a fourth-year **Software Engineering student** at Ben-Gurion University wi
 ### 💻 Skills & Technologies
 - **Programming Languages**: Python, Java, C, C++, C#
 - **Frameworks & Tools**: Docker, GitHub, Maven, Linux
-- **Knowledge Areas**: Network Security, Distributed Computing, Operating Systems
+- **Knowledge Areas**: Network Security, Distributed Computing, Operating Systems,  
 - **Database Systems**: SQL, Vertica, Hadoop
 - **Version Control**: Git
 
@@ -42,4 +42,4 @@ Here are some of the projects I’m most proud of:
 ---
 
 ### 🌱 Fun Fact
-I enjoy combining creativity with technology by building unique projects, and I’m always curious about how software can be used to improve everyday life. When I’m not coding, you might find me teaching kids tech skill.
+I enjoy combining creativity with technology by building unique projects, and I’m always curious about how software can be used to improve everyday life. When I’m not coding, you might find me teaching kids tech skills.
