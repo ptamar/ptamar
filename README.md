@@ -1,45 +1,54 @@
 # Hi, I'm Tamar Mann! 👋
 
-### 🚀 About Me
-I’m a fourth-year **Software Engineering student** at Ben-Gurion University with a passion for building robust, scalable, and innovative software solutions. My focus lies in **back-end development**, **distributed systems**, and **software design**. I love exploring new technologies and solving challenging problems through clean, efficient code.
+Recent **B.Sc. in Software Engineering, Ben-Gurion University (2025), GPA 83.6**.  
+I like simple architectures, readable code, and shipping value fast.
+
+- **Focus:** Backend & full-stack
+- **Stack:** Python • React/Next.js • TypeScript/JavaScript • SQL/MySQL • Firebase RTDB
+- **Tools:** Git • Docker • Linux • Maven
+- **Also used:** Java • C/C++ • C#
+- **AI helpers:** GitHub Copilot + ChatGPT (quick to adopt new tools)
+- **Location/Availability:** Israel · Haifa/TLV hybrid or remote · Available immediately
 
 ---
 
-### 💻 Skills & Technologies
-- **Programming Languages**: Python, Java, C, C++, C#
-- **Frameworks & Tools**: Docker, GitHub, Maven, Linux
-- **Knowledge Areas**: Network Security, Distributed Computing, Operating Systems,  
-- **Database Systems**: SQL, Vertica, Hadoop
-- **Version Control**: Git
+## 🔸 Highlight — DynamiCare (with Vitalerter)
+**What it does:** shift-based task management for nurses & caregivers, patient monitoring and documentation, with **dynamic recommendations** per patient.  
+**Tech:** Next.js/React + TypeScript, API Routes, Firebase Realtime DB (plus some Python utilities).  
+**Why it matters:** clarity on *who does what, when, and for whom* → fewer errors, better care.
+
+**Demo:** https://v0-dynami-care-website.vercel.app  
+*Code available on request (parts are private).*
 
 ---
 
-### 🎯 Career Goals
-I aspire to work in dynamic and innovative environments, contributing to impactful projects that push the boundaries of technology. My long-term goal is to specialize in back-end systems and cloud-based solutions.
+## 📌 Selected Projects
+- **Kanban Board (C#)** — clean UI for tasks/columns, file persistence.  
+  Repo: https://github.com/ptamar/Introduction-to-software-engineering---Kanban
+
+- **Multi-Threaded Set (Java)** — human/AI players, concurrency with locks & semaphores.
+
+- **xv6 OS Enhancements (C)** — multi-process coroutine support + kernel-level sync for IPC.
+
+- **SynCare (real-time healthcare app)** — with Soroka Hospital, syncing therapist updates.
 
 ---
 
-### 📌 Featured Projects
-Here are some of the projects I’m most proud of:
-
-- **[Operating System Enhancements](https://github.com/ptamar/OperatingSystem-Ass2)**  
-   Enhanced the xv6 operating system with multi-process coroutine support and a kernel-level synchronization mechanism for interprocess communication.
-
-- **[Kanban Board](https://github.com/ptamar/Introduction-to-software-engineering---Kanban)**  
-   A digital Kanban board built with C#, featuring customizable columns, task management, and an intuitive UI.
-
-- **[Multi-Threaded Set Card Game](https://github.com/ptamar/SPL_2)**  
-   A Java-based game supporting human and AI players, utilizing multithreading and semaphores for synchronized gameplay.
-
-- **[Real-Time Healthcare App](https://github.com/ptamar)**  
-   Collaborated with Soroka Hospital to develop a real-time app for synchronizing therapist updates, focusing on scalable, real-time communication.
+## 🧰 Skills at a Glance
+- **Backend:** Python (Flask/FastAPI basics), REST APIs, auth/validation, data handling
+- **Frontend:** React/Next.js, TypeScript, forms/tables, clean UX
+- **Data/DB:** SQL/MySQL, Firebase RTDB, indexes/queries/EXPLAIN
+- **Infra:** Git, Docker, Linux; basic CI
+- **Foundations:** OS, networks/TCP-IP, security basics (OWASP mindset), distributed concepts
 
 ---
 
-### 🌍 Connect With Me
-- 📧 Email: [TamarMmann@gmail.com](mailto:TamarMmann@gmail.com)  
-- 🌐 LinkedIn: [linkedin.com/in/tamar-mann](https://linkedin.com/in/tamar-mann)  
+## 🎯 What I’m looking for
+Junior **Software Engineer (Backend/Full-stack)** roles building high-scale, real-time systems.
+
 ---
 
-### 🌱 Fun Fact
-I enjoy combining creativity with technology by building unique projects, and I’m always curious about how software can be used to improve everyday life. When I’m not coding, you might find me teaching kids tech skills.
+## 🌍 Connect
+**Email:** TamarMmann@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/tamar-mann  
+**GitHub:** https://github.com/ptamar
